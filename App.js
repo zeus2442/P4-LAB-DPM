@@ -9,7 +9,7 @@ export default function App() {
   return (
     <NavigationContainer>
       <Stack.Navigator>
-        <Stack.Screen name="Match" component={MatchScreen} options={{ title: 'pertandingan bola' }} />
+        <Stack.Screen name="Match" component={MatchScreen} options={{ title: 'pertandingan futsal' }} />
       </Stack.Navigator>
     </NavigationContainer>
   );

@@ -36,7 +36,7 @@ const MatchScreen = () => {
     >
       <View style={styles.overlay} />
       <View style={styles.container}>
-        <Text style={styles.title}>pertandingan bola</Text>
+        <Text style={styles.title}>pertandingan futsal</Text>
         <Scoreboard
           teamName="Team A"
           score={scoreA}
